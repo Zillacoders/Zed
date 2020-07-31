@@ -69,4 +69,9 @@ elif choice == ("right"):
         if question == ("where is the treasure?"):
             print("Now now. Don't be hasty. The treasure was inside you all along.\n You go back home dejected.")
 
-        elif question == 
+        elif question == ("will I ever find a wife?"):
+            print("You will! Just go home and do yo thang!")
+
+        else:
+            print("Try again")
+
